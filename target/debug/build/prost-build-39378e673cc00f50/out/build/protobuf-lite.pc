@@ -1,0 +1,11 @@
+prefix=D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out
+exec_prefix=D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out
+libdir=D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/lib
+includedir=D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/include
+
+Name: Protocol Buffers
+Description: Google's Data Interchange Format
+Version: 3.19.4.0
+Libs: -L${libdir} -lprotobuf-lite 
+Cflags: -I${includedir}
+Conflicts: protobuf

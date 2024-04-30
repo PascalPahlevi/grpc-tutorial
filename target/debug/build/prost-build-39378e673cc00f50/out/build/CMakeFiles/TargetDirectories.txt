@@ -1,0 +1,7 @@
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/libprotobuf-lite.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/libprotobuf.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/libprotoc.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/protoc.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/INSTALL.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/ALL_BUILD.dir
+D:/Pascal/School Files/Sem 4/AdProg/grpc-tutorial/target/debug/build/prost-build-39378e673cc00f50/out/build/CMakeFiles/ZERO_CHECK.dir

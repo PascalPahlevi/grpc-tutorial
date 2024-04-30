@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\Pascal\School Files\Sem 4\AdProg\grpc-tutorial\target\debug\build\prost-build-39378e673cc00f50\out\build\CMakeFiles\22fcb4620c3aa4f54689bc761b2552a1\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{5FCD5B24-4649-3E1A-BE35-246F49DBB1CC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
